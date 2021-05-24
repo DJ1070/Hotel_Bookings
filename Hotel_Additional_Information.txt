@@ -15,3 +15,62 @@ Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay
 
 stays_in_week_nights:
 Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
+
+meal:
+'BB', 'FB', 'HB', 'SC', 'Undefined'
+
+market_segment:
+'Direct', 'Corporate', 'Online TA', 'Offline TA/TO',
+       'Complementary', 'Groups', 'Undefined', 'Aviation'
+
+distribution_channel:
+'Direct', 'Corporate', 'TA/TO', 'Undefined', 'GDS'
+
+is_repeated_guest:
+0
+1
+
+previous_cancellations:
+int
+
+previous_bookings_not_canceled:
+int
+
+reserved_room_type:
+'C', 'A', 'D', 'E', 'G', 'F', 'H', 'L', 'P', 'B'
+
+assigned_room_type:
+'C', 'A', 'D', 'E', 'G', 'F', 'I', 'B', 'H', 'P', 'L', 'K'
+
+booking_changes:
+int
+
+deposit_type:
+'No Deposit', 'Refundable', 'Non Refund'
+
+agent:
+many
+
+company:
+many
+
+days_in_waiting_list:
+int
+
+customer_type:
+'Transient', 'Contract', 'Transient-Party', 'Group'
+
+adr:
+float
+
+required_car_parking_spaces:
+int
+
+total_of_special_requests:
+int
+
+reservation_status:
+'Check-Out', 'Canceled', 'No-Show'
+
+reservation_status_date:
+date
