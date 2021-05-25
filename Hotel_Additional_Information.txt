@@ -60,7 +60,7 @@ int
 customer_type:
 'Transient', 'Contract', 'Transient-Party', 'Group'
 
-adr:
+adr - average daily rate per customer:
 float
 
 required_car_parking_spaces:
