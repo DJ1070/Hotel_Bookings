@@ -18,17 +18,24 @@ Number of week nights (Monday to Friday) the guest stayed or booked to stay at t
 
 meal:
 'BB', 'FB', 'HB', 'SC', 'Undefined'
+Type of meal booked. 
+Categories are presented in standard hospitality meal packages:
+Undefined/SC – no meal package;
+BB – Bed & Breakfast;
+HB – Half board (breakfast and one other meal – usually dinner);
+FB – Full board (breakfast, lunch and dinner)
 
 market_segment:
-'Direct', 'Corporate', 'Online TA', 'Offline TA/TO',
-       'Complementary', 'Groups', 'Undefined', 'Aviation'
+'Direct', 'Corporate', 'Online TA', 'Offline TA/TO', 'Complementary', 'Groups', 'Undefined', 'Aviation'
+Market segment designation.
 
 distribution_channel:
 'Direct', 'Corporate', 'TA/TO', 'Undefined', 'GDS'
+Booking distribution channel. The term “TA” means “Travel Agents” and “TO” means “Tour Operators”
 
 is_repeated_guest:
-0
-1
+0 = no repeated guest
+1 = repeated guest
 
 previous_cancellations:
 int
@@ -47,6 +54,10 @@ int
 
 deposit_type:
 'No Deposit', 'Refundable', 'Non Refund'
+Indication on if the customer made a deposit to guarantee the booking. This variable can assume three categories:
+No Deposit – no deposit was made;
+Non Refund – a deposit was made in the value of the total stay cost;
+Refundable – a deposit was made with a value under the total cost of stay.
 
 agent:
 many
@@ -56,9 +67,15 @@ many
 
 days_in_waiting_list:
 int
+Number of days the booking was in the waiting list before it was confirmed to the customer
 
 customer_type:
 'Transient', 'Contract', 'Transient-Party', 'Group'
+Type of booking, assuming one of four categories:
+Contract - when the booking has an allotment or other type of contract associated to it;
+Group – when the booking is associated to a group;
+Transient – when the booking is not part of a group or contract, and is not associated to other transient booking;
+Transient-party – when the booking is transient, but is associated to at least other transient booking
 
 adr - average daily rate per customer:
 float
