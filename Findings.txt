@@ -1,0 +1,3 @@
+Surprise:
+
+1. Distribution Channel has some impact on the cancellation rate.
