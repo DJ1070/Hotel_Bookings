@@ -1,3 +1,8 @@
 Surprise:
 
 1. Distribution Channel has some impact on the cancellation rate.
+
+2. Deposit type plays a huge role in cancellation behavior (but also in lead time) - more so in city hotels!
+
+
+Ich habe mehr als zwanzig Jahre lang mein eigenes Beratungsgeschäft geführt. Ich wurde Pionierin in Gender Marketing 
