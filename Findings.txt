@@ -4,5 +4,31 @@ Surprise:
 
 2. Deposit type plays a huge role in cancellation behavior (but also in lead time) - more so in city hotels!
 
+3. What does a feature importance value of -5 mean? -> deposit_type_Non Refund
+
+
+
 
 Ich habe mehr als zwanzig Jahre lang mein eigenes Beratungsgeschäft geführt. Ich wurde Pionierin in Gender Marketing 
+
+
+
+Maximum:  0.9463986599664992
+Mean:  0.8079351633832758
+
+
+
+KNN
+5 Neighbours
+0.8338219281346847
+Kappa: 0.6410150707366751
+
+
+
+Random Forest
+n_estimators=50
+0.8932071362760701
+Kappa: 0.7668905259926047
+
+Random Forest
+-> Feature Importance!
