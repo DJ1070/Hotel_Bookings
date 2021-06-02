@@ -8,3 +8,31 @@ Surprise:
 
 4. Is there no Kappa and Feature Importance for K-fold Decision Tree?
 
+5. Push Github...
+
+6. train test split: does the random state have an influence on the results? Repeating the same random state seems so...
+
+7. How can I structure the code better -> feature importance
+
+
+pd.labelencoder
+
+
+test_size = 0.2, random_state = 4
+
+	Model				Score		Kappa
+3	Random Forest Classifier	0.894053	0.770164
+8	Extra Trees Classifier		0.889774	0.759985
+10	Voting Classifier		0.879414	0.735213
+7	Cat Boost			0.876730	0.733468
+6	XgBoost				0.868258	0.714031
+9	LGBM				0.863476	0.706467
+2	Decision Tree Classifier	0.856094	0.693108
+5	Gradient Boosting Classifier	0.849425	0.668910
+1	KNN				0.835794	0.646068
+4	Ada Boost Classifier		0.838520	0.644882
+0	Logistic Regression		0.794313	0.535256
+
+
+
+
