@@ -17,6 +17,7 @@ Surprise:
 
 pd.labelencoder
 
+Hotel_Cancellation_Prediction:
 
 test_size = 0.2, random_state = 4
 
@@ -33,6 +34,21 @@ test_size = 0.2, random_state = 4
 4	Ada Boost Classifier		0.838520	0.644882
 0	Logistic Regression		0.794313	0.535256
 
+
+City Hotels
+
+	Model				Score		Kappa
+3	Random Forest Classifier	0.890482	0.772051
+8	Extra Trees Classifier		0.886061	0.762365
+10	Voting Classifier		0.879366	0.747202
+7	Cat Boost			0.875892	0.742920
+6	XgBoost				0.867555	0.724008
+9	LGBM				0.865534	0.723245
+2	Decision Tree Classifier	0.853786	0.699356
+5	Gradient Boosting Classifier	0.849113	0.683529
+4	Ada Boost Classifier		0.838186	0.661616
+1	KNN				0.831302	0.651292
+0	Logistic Regression		0.803006	0.580212
 
 
 
