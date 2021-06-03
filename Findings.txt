@@ -51,4 +51,18 @@ City Hotels
 0	Logistic Regression		0.803006	0.580212
 
 
+Resort Hotels
 
+
+	Model				Score		Kappa
+3	Random Forest Classifier	0.917853	0.790572
+8	Extra Trees Classifier		0.913858	0.778000
+6	XgBoost				0.907116	0.766503
+7	Cat Boost			0.904120	0.758836
+10	Voting Classifier		0.905368	0.755352
+9	LGBM				0.882647	0.709767
+5	Gradient Boosting Classifier	0.885019	0.703806
+2	Decision Tree Classifier	0.875655	0.690779
+4	Ada Boost Classifier		0.876654	0.683029
+1	KNN				0.850187	0.622866
+0	Logistic Regression		0.823596	0.524509
