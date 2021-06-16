@@ -63,4 +63,4 @@ By means of Machine Learning it was to determine if a prediction can be made wit
 <h2>Results</h2>
 <p>There are too many results and insights from just a little bit of exploration (there was no time for more). Please take a look at my short presentation and for more in the exploration file, if you will. </p>
 <p>The best machine learning results are contained in this file.</p>
-<p>You can find my other / earlier machine learning attempts on this datasets in this folder (but you really don't have to).</p>
+<p>You can find my other / earlier machine learning attempts on this datasets in the folder <a href = "https://github.com/DJ1070/Hotel_Bookings/tree/main/Machine_Learning">Machine_Learning</a> (but you really don't have to).</p>
