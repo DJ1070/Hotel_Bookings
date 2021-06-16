@@ -21,7 +21,8 @@ By means of Machine Learning it was to determine if a prediction can be made wit
 
 
 <h2>The Dataset</h2>
-<p>The dataset stems from 2 Portugese hotels, a city and a resort hotel. It contains overnighters from the years 2015, 2016, and 2017 as well as cancelled bookings.</p>
+<p>The dataset comes from 2 Portugese hotels, a city and a resort hotel. It contains overnighters from the years 2015, 2016, and 2017 as well as cancelled bookings.</p>
+<p>The data is imbalanced in many ways, starting with twice as much data for the city hotel compared to the resort hotel. The hotels are more popular among adults traveling without kids. The vast majority of the guests stems from Portugal even though the total guest variety is high: People from as much as 178 different countries booked their stays in just these two hotels! And of course there's some data that doesn't make any sense, e. g. bookings for 0 adults and some children (including babies) or even 0 kids.</p>
 
 
 <h2>My Approach</h2>
@@ -59,4 +60,7 @@ By means of Machine Learning it was to determine if a prediction can be made wit
     </ul>
 
 
-<h2>Machine Learning</h2>
+<h2>Results</h2>
+<p>There are too many results and insights from just a little bit of exploration (there was no time for more). Please take a look at my short presentation and for more in the exploration file, if you will. </p>
+<p>The best machine learning results are contained in this file.</p>
+<p>You can find my other / earlier machine learning attempts on this datasets in this folder (but you really don't have to).</p>
