@@ -38,27 +38,28 @@ By means of Machine Learning
         <li>Feature selection</li>
         <li>Outlier deletion</li>
         <li>Splitting hotel data</li>
-        <li>Even different random states in train-test-split!</li>
+        <li>Even different random states in train-test-split</li>
+        <li>And finally: <a href = "https://medium.com/@breya.heysoftware/synthetic-minority-over-sampling-technique-smote-from-scratch-e1167f788434>SMOTE</a>.</li>
     </ul>
 <p>Classification Methods:</p>
     <ul>
         <li>Logistic Regression</li>
+        <li>Decision Tree</li>
+        <li>K-Fold Decision Tree</li>
+        <li>KNN</li>
+        <li>Random Forest</li>
+        <li>Ada Boost Classifier</li>
         <li></li>
         <li></li>
         <li></li>
         <li></li>
         <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li>
-Decision Tree 
-K-Fold Decision Tree
-KNN
-Random Forest
-Ada Boost Classifier
+        <li>Gradient Boosting Classifier
+XgBoost Classifier
+Cat Boost Classifier
+Extra Trees Classifier
+LGBM Classifier
+Voting Classifier
 </li>
     
 
