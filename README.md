@@ -26,7 +26,8 @@ By means of Machine Learning it was to determine if a prediction can be made wit
 
 
 <h2>My Approach</h2>
-<p>Ich bin mit Fragen aus dem Marketing an den Datensatz herangegangen. Ich selbst komme aus dem Marketing und habe mich in den letzten 20+ Jahren mit der Erforschung von User- und Käuferverhalten befasst. Somit habe ich zwar auch, aber eben nicht nur typische KPIs formuliert. Die Daten enthalten zahllose Hinweise auf menschliche Bedürfnisse und Verhaltensweisen. Daten können vieles nicht beantworten, aber sie werfen sehr oft Fragen auf, die es sich im Anschluss an die Datenanalyse zu beantworten lohnt, denn daraus ergeben sich die wichtigsten Hinweise für das strategische Marketing.</p>
+<p>I approached the dataset from a marketing perspective. I have been working 30+ years in marketing and have spent the last 20+ years studying user and consumer behavior. 
+    Hence I did defined typical KPIs - but moreover I looked beyond them. The data contains hints to innumerous aspects of human needs and behavior patterns. There are many questions data cannot answer, but it points to all that needs to be investigated further to truly understand how to serve customers needs better. And that should always be the core of strategic marketing.</p>
 
 
 <h2>Machine Learning</h2>
@@ -61,6 +62,6 @@ By means of Machine Learning it was to determine if a prediction can be made wit
 
 
 <h2>Results</h2>
-<p>There are too many results and insights from just a little bit of exploration (there was no time for more). Please take a look at my short presentation and for more in the exploration file, if you will. </p>
+<p>There are too many results and insights from just a little bit of exploration (there was no time for more). Please take a look at my short <a href = "https://github.com/DJ1070/Hotel_Bookings/blob/main/Presentation/Hotel_Bookings_Presentation_Diana_Jaffe.pdf">presentation</a> and for more in the exploration file, if you will. </p>
 <p>The best machine learning results are contained in this file.</p>
 <p>You can find my other / earlier machine learning attempts on this datasets in the folder <a href = "https://github.com/DJ1070/Hotel_Bookings/tree/main/Machine_Learning">Machine_Learning</a> (but you really don't have to).</p>
