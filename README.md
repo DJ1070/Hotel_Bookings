@@ -70,16 +70,9 @@ By means of Machine Learning it was to determine if a prediction can be made wit
     <b>Accuracy = 0.932411</b><br>
     <b>Kappa = 0.864827</b><br><br>
     As mentioned above: I tried to not overfit my models.</li><br>
-<li>You can find my other / earlier machine learning attempts on this datasets in the folder <a href = "https://github.com/DJ1070/Hotel_Bookings/tree/main/Machine_Learning">Machine_Learning</a> (but you really don't have to).</li>
+<li>If you really, really want to know all the details, you can find my other / earlier machine learning attempts on this datasets in the folder <a href = "https://github.com/DJ1070/Hotel_Bookings/tree/main/Machine_Learning">Machine_Learning</a>.</li>
 </ol>
 
+<p></p>
 
-
-<p>There are too many results and insights from just a little bit of exploration (there was no time for more). Please take a look at my short <a href = "https://github.com/DJ1070/Hotel_Bookings/blob/main/Presentation/Hotel_Bookings_Presentation_Diana_Jaffe.pdf">presentation</a> and for more in the <a href = "https://github.com/DJ1070/Hotel_Bookings/blob/main/Hotel_Exploration.ipynb">exploration file "Hotel_Exploration.ipynb"</a>, if you will. </p>
-<p>The best machine learning results are contained in the file <a href = "https://github.com/DJ1070/Hotel_Bookings/blob/main/Hotel_Cancellation_Prediction.ipynb">"Hotel_Cancellation_Prediction.ipynb"</a>.</p>
-<p>SPOILER ALERT!</p>
-<p>Random Forest Classifier delivered the best result with<br> 
-    Accuracy = 0.932411	<br>
-    Kappa = 0.864827</p>
-<p>As mentioned above: I tried to not overfit my models. </p>
-<p>You can find my other / earlier machine learning attempts on this datasets in the folder <a href = "https://github.com/DJ1070/Hotel_Bookings/tree/main/Machine_Learning">Machine_Learning</a> (but you really don't have to).</p>
+<img src = "https://www-cms.gebeco.de/wp-content/uploads/2017/05/rundreise-portugal-algarve_heroM_F1.jpg">
